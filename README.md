@@ -1,3 +1,6 @@
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanv33&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-24" /> </p>
+
 <p align="center" >
   <img height=150px src="https://i.pinimg.com/originals/5d/f3/4b/5df34b95ee180309a51941e1f74542c3.gif" />
 </p>
@@ -63,14 +66,16 @@
 <h3 align="left">Contributions: </h3>
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=tanv33&amp;theme=react&amp;hide_border=true&amp;area=true" style="max-width:100%;">
-<br>
-<img src="https://raw.githubusercontent.com/Anikcb/Anikcb/1ca16fe201803bfd54350a82c30e3f82b84ac5b1/profile_data/snake1.svg" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑" style="max-width:100%;">
- 
+
+<h3 align="left"> Snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"></h3>
+	  
+![snake gif](https://github.com/tanv33/tanv33/blob/output/github-contribution-grid-snake.gif)
+
 <hr>
 
 
 <h3>Overview:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanv33" alt="tanv33" /></a> </p>
 
-<hr>
+<br>
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories</h3>
