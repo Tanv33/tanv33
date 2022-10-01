@@ -22,10 +22,22 @@
 - 📫 How to reach me **tanveeer.khan2692000@gmail.com**
 
 - ⚡ Fun fact **I think I live in my own world**
-<br>
-<br>
 
+<br>
+<br>
 <hr>
+
+
+<h3 align="left">Connect with me:<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/raw/master/gifs/Handshake.gif" height="45px" style="max-width:100%;"></h3>
+<p align="center">
+<a href="https://linkedin.com/in/tanveer-khan-b4a3b621b" target="blank"><img src="https://camo.githubusercontent.com/0ff78512f45d498526f436fb6bb7c8cc39c7a2a8a3eef8b13df9553c34b3b5e3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f39302f3461393065322f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png" style="max-width:100%;"></a>
+<a href="tanveer.khan2692000@gmail.com" target="blank"><img src="https://camo.githubusercontent.com/1d9a59c6da0107279901779c1f1a96a5aec8a0830399e05eb0aef47d9d565d53/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f39302f3461393065322f676d61696c2e706e67" data-canonical-src="https://img.icons8.com/clouds/90/4a90e2/gmail.png" style="max-width:100%;"></a>
+<a href="https://www.facebook.com/profile.php?id=100030484703065" rel="nofollow"><img src="https://camo.githubusercontent.com/1248785395376b11590e99ea35def3889d84f93beb765cee43874a4700d4c1d1/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f39302f3030303030302f66616365626f6f6b2d6e65772e706e67" data-canonical-src="https://img.icons8.com/clouds/90/000000/facebook-new.png" style="max-width:100%;"></a>
+<a href="https://api.whatsapp.com/send?phone=01761951604" rel="nofollow"><img src="https://camo.githubusercontent.com/175e706a636868b0dfdea77549b7b337238bc54cd4bfa0286fc4afd33d13a437/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f39302f3030303030302f77686174736170702e706e67" data-canonical-src="https://img.icons8.com/clouds/90/000000/whatsapp.png" style="max-width:100%;"></a>
+<a href="https://www.youtube.com/channel/UCJcScWVF3x1CLEg-XpvCXVw" target="blank"><img src="https://i.pinimg.com/originals/d4/1c/c6/d41cc6d360aeb4d4ea3f61a6c894aaa8.png" alt="https://www.facebook.com/profile.php?id=100030484703065" height="95"/></a>
+<a href="https://stackoverflow.com/users/16171263/anik-chakraborty?tab=profile" target="blank"><img src="https://i.pinimg.com/originals/82/c0/4f/82c04f311cbdae05b5c729b9ff6ab588.png" height="95"/></a>
+
+ 
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
