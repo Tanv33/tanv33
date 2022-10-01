@@ -27,8 +27,8 @@
 
 <hr>
 <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/tanveer-khan-b4a3b621b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanveer-khan-b4a3b621b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17144605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17144605" height="30" width="40" /></a>
 <a href="https://fb.com/muhammad-tanveer-khan/100007686159316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad-tanveer-khan/100007686159316/" height="30" width="40" /></a>
