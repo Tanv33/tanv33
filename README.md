@@ -52,12 +52,25 @@
 </p>
 
 <hr>
-<h3>Streak & Statistics</h3>
+<h3 align="left">Streak & Statistics: </h3>
+<br>
 <p align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanv33&" alt="tanv33" /></p>
-</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tanv33&show_icons=true&locale=en" alt="tanv33" />&nbsp;&nbsp;&nbsp;&nbsp; </p>
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanv33&theme=light" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanv33&show_icons=true&theme=light" />
+ </p>
+
+<hr>
+<h3 align="left">Contributions: </h3>
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=tanv33&amp;theme=react&amp;hide_border=true&amp;area=true" style="max-width:100%;">
+<br>
+<img src="https://raw.githubusercontent.com/Anikcb/Anikcb/1ca16fe201803bfd54350a82c30e3f82b84ac5b1/profile_data/snake1.svg" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑" style="max-width:100%;">
+ 
 <hr>
 
 
-<h3>Overview</h3>
+<h3>Overview:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanv33" alt="tanv33" /></a> </p>
+
+<hr>
+<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories</h3>
