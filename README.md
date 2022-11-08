@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [NFT web apps and much more](https://dreamhub.art/)
 
-- 🌱 I’m currently learning **GraphQl,AWS and Next.js**
+- 🌱 I’m currently learning **Serverless,Microservices and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://oafish-tail.surge.sh/](https://oafish-tail.surge.sh/)
 
