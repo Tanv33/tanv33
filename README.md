@@ -65,7 +65,7 @@
 <hr>
 <h3 align="left">Contributions: </h3>
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=tanv33&amp;theme=react&amp;hide_border=true&amp;area=true" style="max-width:100%;">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=tanv33&amp;theme=react&amp;hide_border=true&amp;area=true" style="max-width:100%;">
 
 <h3 align="left"> Snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"></h3>
 
