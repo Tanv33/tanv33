@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Serverless,Microservices and Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://oafish-tail.surge.sh/](https://oafish-tail.surge.sh/)
+- 👨‍💻 All of my projects are available at [https://tanveer-e09d4.web.app](https://tanveer-e09d4.web.app)
 
 - 💬 Ask me about **react, node and web3**
 
