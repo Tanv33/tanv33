@@ -24,7 +24,6 @@
 
 - 📫 How to reach me **tanveeer.khan2692000@gmail.com**
 
-- ⚡ Fun fact **I think I live in my own world**
 
 <br>
 <br>
