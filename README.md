@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tanveer-e09d4.web.app](https://tanveer-e09d4.web.app)
 
-- 💬 Ask me about **react, node and web3**
+- 💬 Ask me about **React.js, Node.js and Web3**
 
 - 📫 How to reach me **tanveeer.khan2692000@gmail.com**
 
