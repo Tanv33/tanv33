@@ -64,7 +64,7 @@
 <hr>
 <h3 align="left">Contributions: </h3>
 <br>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=tanv33&amp;theme=react&amp;hide_border=true&amp;area=true" style="max-width:100%;">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanv33&bg_color=2e3440&color=88c0d0&line=88c0d0&point=ffffff&area=true&hide_border=true" style="max-width:100%;">
 
 <h3 align="left"> Snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"></h3>
 
