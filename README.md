@@ -14,7 +14,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 style="margin-top: 4px;">I LOVE TO CONTRIBUTE OPEN SOURCE!</h3>
 
-- 🔭 I’m currently working on [NFT web apps and much more](https://dreamhub.art/)
+- 🔭 I’m currently working on [NFT web apps and much more](https://dreamhub.art)
 
 - 🌱 I’m currently learning **Serverless,Microservices and Kubernetes**
 
