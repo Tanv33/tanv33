@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [NFT web apps and much more](https://dreamhub.art)
 
-- 🌱 I’m currently learning **Serverless,Microservices and Kubernetes**
+- 🌱 I’m currently learning **Microservices, Docker and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://tanveer-e09d4.web.app](https://tanveer-e09d4.web.app)
 
