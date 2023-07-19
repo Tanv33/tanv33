@@ -30,7 +30,7 @@
 <hr>
 
 
-<h3 align="left">Connect with me:<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/raw/master/gifs/Handshake.gif" height="45px" style="max-width:100%;"></h3>
+<h3 align="left">Connect with me:<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/raw/master/gifs/Handshake.gif" height="45px" style="max-width:100%;" ></h3>
 <p align="center">
 <a href="https://linkedin.com/in/tanveer-khan-b4a3b621b" target="_blank" rel="noopener noreferrer"><img src="https://camo.githubusercontent.com/0ff78512f45d498526f436fb6bb7c8cc39c7a2a8a3eef8b13df9553c34b3b5e3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f39302f3461393065322f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png" style="max-width:100%;"></a>
 <a href="mailto:tanveer.khan2692000@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://camo.githubusercontent.com/1d9a59c6da0107279901779c1f1a96a5aec8a0830399e05eb0aef47d9d565d53/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f39302f3461393065322f676d61696c2e706e67" data-canonical-src="https://img.icons8.com/clouds/90/4a90e2/gmail.png" style="max-width:100%;"></a>
