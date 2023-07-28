@@ -6,11 +6,11 @@
 </p>
  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=8DBCCC&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Tanveer;A+passionate+MERN+Stack+and+Web3+Developer;Open+Source+Contributer;Where+there+is+Code%2C+There+is+Life;I+believe%2C+It's+never+over+till+it's+over." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=8DBCCC&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Tanveer;A+passionate+MERN+Stack+and+Web3+Developer;Open+Source+Contributer;Where+there+is+Code%2C+There+is+Life;I+believe%2C+It's+never+over+till+it's+over."/>
 </p>
 
 <img align="right" alt="Coding" width="400" style="border-radius:20px;"
-	src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
+	src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" >
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 style="margin-top: 4px;">I LOVE TO CONTRIBUTE OPEN SOURCE!</h3>
 
