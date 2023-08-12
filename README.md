@@ -1,5 +1,5 @@
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=tanv33&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-24" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=tanv33&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-24"/> </p>
 
 <p align="center">
   <img height=150px src="https://i.pinimg.com/originals/5d/f3/4b/5df34b95ee180309a51941e1f74542c3.gif" />
