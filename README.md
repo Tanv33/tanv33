@@ -5,7 +5,7 @@
   <img height=150px src="https://i.pinimg.com/originals/5d/f3/4b/5df34b95ee180309a51941e1f74542c3.gif" />
 </p>
  
-<p align="center" >
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=8DBCCC&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Tanveer;A+passionate+MERN+Stack+and+Web3+Developer;Open+Source+Contributer;Where+there+is+Code%2C+There+is+Life;I+believe%2C+It's+never+over+till+it's+over." />
 </p>
 
