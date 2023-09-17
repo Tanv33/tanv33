@@ -6,7 +6,7 @@
 </p>
  
 <p align="center" >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=8DBCCC&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Tanveer;A+passionate+MERN+Stack+and+Web3+Developer;Open+Source+Contributer;Where+there+is+Code%2C+There+is+Life;I+believe%2C+It's+never+over+till+it's+over." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=8DBCCC&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Tanveer;A+passionate+MERN+Stack+and+Web3+Developer;Open+Source+Contributer;Where+there+is+Code%2C+There+is+Life;I+believe%2C+It's+never+over+till+it's+over."/>
 </p>
 
 <img align="right" alt="Coding" width="400" style="border-radius:20px;"
