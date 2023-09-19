@@ -73,7 +73,7 @@
 <hr>
 
 
-<h3>Overview: </h3>
+<h3>Overview:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanv33" alt="tanv33" /></a></p>
 
 <br>
