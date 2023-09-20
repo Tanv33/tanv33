@@ -35,11 +35,10 @@
 <h3 style="margin-top: 4px">I LOVE TO CONTRIBUTE OPEN SOURCE!</h3>
 
 - 🔭 I’m currently working on [NFT web apps and much more](https://dreamhub.art)
-- 🌱 I’m currently learning **Microservices, Docker and Kubernetes** - 👨‍💻 All of
-my projects are available at
-[https://tanveer-e09d4.web.app](https://tanveer-e09d4.web.app) - 💬 Ask me about
-**Node.js, Next.js, React.js and Web3** - 📫 How to reach me
-**tanveeer.khan2692000@gmail.com**
+- 🌱 I’m currently learning **Microservices, Docker and Kubernetes**
+- 👨‍💻 All of my projects are available at [https://tanveer-e09d4.web.app](https://tanveer-e09d4.web.app)
+- 💬 Ask me about **Node.js, Next.js, React.js and Web3**
+- 📫 How to reach me **tanveeer.khan2692000@gmail.com**
 
 <br />
 <br />
