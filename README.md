@@ -28,5 +28,4 @@
 - 📫 How to reach me **tanveeer.khan2692000@gmail.com**
 
 <br />
-<br />
 <!-- End -->
