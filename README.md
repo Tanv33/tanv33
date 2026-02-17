@@ -21,7 +21,7 @@
 
 <h3 style="margin-top: 4px">I LOVE TO CONTRIBUTE OPEN SOURCE!</h3>
 
-- 🔭 I’m currently working on [Gameshift](https://docs.gameshift.dev/)
+- 🔭 I’m currently working on [Token Utility Protocol (TUP)](https://tup.jointops.dev/)
 - 🌱 I’m currently learning **Solana**
 - 👨‍💻 All of my projects are available [here](https://tanveer-e09d4.web.app)
 - 💬 Ask me about **Typescript/Javascript, Solana, Rust and gaming**
