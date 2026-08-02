@@ -7,7 +7,7 @@
   <a href="https://x.com/tanv33"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>
   <a href="https://tanveer-e09d4.web.app"><img src="https://img.shields.io/badge/Portfolio-14F195?style=for-the-badge&amp;logo=firefox&amp;logoColor=black" alt="Portfolio" /></a>
   <a href="mailto:tanveer.khan2692000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=tanv33&amp;label=Profile+views&amp;color=14F195&amp;style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tanv33&amp;label=Profile+views&amp;color=0E9E68&amp;style=for-the-badge" alt="Profile views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:0E9E68&amp;height=2" width="100%" alt="" />
@@ -32,16 +32,16 @@ const tanveer = {
 
 ### 🛠️ What I've shipped
 
-**⚔️ ProLeague** · Solana program for competitive gaming
+**⚔️ ProLeague** · Solana program for competitive gaming<br>
 Tournament creation, player entry, automated prize distribution. **500+ users.** Wrote the TypeScript SDK so the frontend never touches a raw instruction.
 
-**🎮 GameShift** · backend platform for game studios
+**🎮 GameShift** · backend platform for game studios<br>
 **2,500+ users**, **150+ integrated games**. BullMQ queues do the heavy lifting so the API stays fast.
 
-**🍯 Honeycomb Protocol** · mission & reward engine
+**🍯 Honeycomb Protocol** · mission & reward engine<br>
 Built the mission-completion and reward-calculation logic that defines how players earn. Part of the team behind a **Solana hackathon-winning submission ($100K prize pool).**
 
-**☁️ Infrastructure**
+**☁️ Infrastructure**<br>
 Migrated 2 production droplets from DigitalOcean to GCP with near-zero downtime. CI/CD pipelines that let the team ship without asking permission.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:0E9E68&amp;height=2" width="100%" alt="" />
@@ -92,7 +92,5 @@ Looking for **Solana Engineer**, **Backend Engineer**, or **Full-stack** roles.
 - ⚡ One week notice, then I'm yours
 
 **If you're hiring, or just want to talk Solana, [email me](mailto:tanveer.khan2692000@gmail.com) or [DM on LinkedIn](https://linkedin.com/in/tanveer-khan-b4a3b621b).** I reply to everything.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:0E9E68&amp;height=2" width="100%" alt="" />
 
 <p align="center"><i>Ship in parallel. Debug in serial.</i></p>
