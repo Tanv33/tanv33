@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=9945FF&center=true&vCenter=true&width=700&lines=Blockchain+%26+Backend+Engineer;Solana+programs+that+hold+real+money;Node.js+backends+that+don't+fall+over;Currently+open+to+work+%F0%9F%9A%80" alt="Tanveer Khan" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=9945FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Blockchain+%26+Backend+Engineer;Solana+programs+that+hold+real+money;Node.js+backends+that+don't+fall+over;Currently+open+to+work+%F0%9F%9A%80" alt="Tanveer Khan" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tanveer-khan-b4a3b621b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/tanv33"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://tanveer-e09d4.web.app"><img src="https://img.shields.io/badge/Portfolio-14F195?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio" /></a>
-  <a href="mailto:tanveer.khan2692000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=tanv33&label=Profile+views&color=14F195&style=for-the-badge" alt="Profile views" />
+  <a href="https://linkedin.com/in/tanveer-khan-b4a3b621b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/tanv33"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>
+  <a href="https://tanveer-e09d4.web.app"><img src="https://img.shields.io/badge/Portfolio-14F195?style=for-the-badge&amp;logo=firefox&amp;logoColor=black" alt="Portfolio" /></a>
+  <a href="mailto:tanveer.khan2692000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=tanv33&amp;label=Profile+views&amp;color=14F195&amp;style=for-the-badge" alt="Profile views" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:14F195&amp;height=3" width="100%" alt="" />
 
 ### 👋 Hey, I'm Tanveer
 
@@ -28,7 +28,7 @@ const tanveer = {
 };
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:14F195&amp;height=3" width="100%" alt="" />
 
 ### 🛠️ What I've shipped
 
@@ -36,7 +36,7 @@ const tanveer = {
 Tournament creation, player entry, automated prize distribution. **500+ users.** Wrote the TypeScript SDK so the frontend never touches a raw instruction.
 
 **🎮 GameShift** · backend platform for game studios
-**2,500+ users**, **150+ integrated games**, BullMQ queues do the heavy lifting so the API stays fast.
+**2,500+ users**, **150+ integrated games**. BullMQ queues do the heavy lifting so the API stays fast.
 
 **🍯 Honeycomb Protocol** · mission & reward engine
 Built the mission-completion and reward-calculation logic that defines how players earn. Part of the team behind a **Solana hackathon-winning submission ($100K prize pool).**
@@ -44,7 +44,7 @@ Built the mission-completion and reward-calculation logic that defines how playe
 **☁️ Infrastructure**
 Migrated 2 production droplets from DigitalOcean to GCP with near-zero downtime. CI/CD pipelines that let the team ship without asking permission.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:14F195&amp;height=3" width="100%" alt="" />
 
 ### 🌱 Open source
 
@@ -54,7 +54,7 @@ Migrated 2 production droplets from DigitalOcean to GCP with near-zero downtime.
 | [**godot-solana-sdk**](https://github.com/Virus-Axel/godot-solana-sdk) | Merged PR adding Honeycomb Protocol support to the Godot engine SDK |
 | [**Medium**](https://medium.com/@tanveer.khan2692000) | Writing on DePIN infrastructure |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:14F195&amp;height=3" width="100%" alt="" />
 
 ### 🧰 Stack
 
@@ -62,7 +62,7 @@ Migrated 2 production droplets from DigitalOcean to GCP with near-zero downtime.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-2E2E2E?style=flat-square)
+![Anchor](https://img.shields.io/badge/Anchor-9945FF?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -81,7 +81,7 @@ Migrated 2 production droplets from DigitalOcean to GCP with near-zero downtime.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:14F195&amp;height=3" width="100%" alt="" />
 
 ### 💼 Open to work
 
@@ -93,6 +93,6 @@ Looking for **Solana Engineer**, **Backend Engineer**, or **Full-stack** roles.
 
 **If you're hiring, or just want to talk Solana, [email me](mailto:tanveer.khan2692000@gmail.com) or [DM on LinkedIn](https://linkedin.com/in/tanveer-khan-b4a3b621b).** I reply to everything.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:14F195&amp;height=3" width="100%" alt="" />
 
 <p align="center"><i>Ship in parallel. Debug in serial.</i></p>
