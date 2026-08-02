@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=tanv33&amp;label=Profile+views&amp;color=14F195&amp;style=for-the-badge" alt="Profile views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:14F195&amp;height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:0E9E68&amp;height=2" width="100%" alt="" />
 
 ### 👋 Hey, I'm Tanveer
 
@@ -28,7 +28,7 @@ const tanveer = {
 };
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:14F195&amp;height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:0E9E68&amp;height=2" width="100%" alt="" />
 
 ### 🛠️ What I've shipped
 
@@ -44,7 +44,7 @@ Built the mission-completion and reward-calculation logic that defines how playe
 **☁️ Infrastructure**
 Migrated 2 production droplets from DigitalOcean to GCP with near-zero downtime. CI/CD pipelines that let the team ship without asking permission.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:14F195&amp;height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:0E9E68&amp;height=2" width="100%" alt="" />
 
 ### 🌱 Open source
 
@@ -54,7 +54,7 @@ Migrated 2 production droplets from DigitalOcean to GCP with near-zero downtime.
 | [**godot-solana-sdk**](https://github.com/Virus-Axel/godot-solana-sdk) | Merged PR adding Honeycomb Protocol support to the Godot engine SDK |
 | [**Medium**](https://medium.com/@tanveer.khan2692000) | Writing on DePIN infrastructure |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:14F195&amp;height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:0E9E68&amp;height=2" width="100%" alt="" />
 
 ### 🧰 Stack
 
@@ -81,7 +81,7 @@ Migrated 2 production droplets from DigitalOcean to GCP with near-zero downtime.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:14F195&amp;height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:0E9E68&amp;height=2" width="100%" alt="" />
 
 ### 💼 Open to work
 
@@ -93,6 +93,6 @@ Looking for **Solana Engineer**, **Backend Engineer**, or **Full-stack** roles.
 
 **If you're hiring, or just want to talk Solana, [email me](mailto:tanveer.khan2692000@gmail.com) or [DM on LinkedIn](https://linkedin.com/in/tanveer-khan-b4a3b621b).** I reply to everything.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:14F195&amp;height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9945FF,100:0E9E68&amp;height=2" width="100%" alt="" />
 
 <p align="center"><i>Ship in parallel. Debug in serial.</i></p>
