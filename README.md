@@ -16,7 +16,7 @@
 
 I write the boring, unglamorous parts that everything else stands on. The API that answers at 3am. The on-chain program that pays the right wallet the right amount, every time.
 
-Karachi, Pakistan · **5+ years backend** · **3 years Solana** · Currently at **Tumi Labs**
+Karachi, Pakistan · **5+ years backend** · **3 years Solana** · Currently at **ProLeague**
 
 ```ts
 const tanveer = {
